@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[QuestionOfLaw]]></title>
         <description><![CDATA[QuestionOfLaw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/questionoflaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 17:04:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 Nov 2015 18:05:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/questionoflaw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Outsource?]]></title>
+            <description><![CDATA[<article><h1>Why Outsource?</h1><p>Clip from Associates? I Don't Need No Stinkin' Associates! Why and How to Work With Contract Lawyers, presented at the Pennsylvania Law Practice Management and Development Institute: Strategic Solutions for Solo to Mid-Size Firms on August 20, 2010</p><img src="http://i.vimeocdn.com/video/89163201_640.jpg"></article>]]></description>
+            <link>https://vimeo.com/14928276</link>
+            <guid isPermaLink="false">4d632802-9a82-48c5-80e3-caf590c9c67a</guid>
+            <pubDate>Thu, 26 Nov 2015 18:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://questionoflaw.net/images/header_part1.png">]]></description>
+            <link>https://thegrid.ai/questionoflaw/1db87309-b303-4493-8d23-be0684d7d253/index.html</link>
+            <guid isPermaLink="false">1db87309-b303-4493-8d23-be0684d7d253</guid>
+            <pubDate>Thu, 26 Nov 2015 17:03:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Legal Research and Writing for Attorneys -- Lisa Solomon, Esq.]]></title>
             <description><![CDATA[<article><h1>Legal Research and Writing for Attorneys -- Lisa Solomon, Esq.</h1><p>Legal research and writing services for attorneys provided by Lisa Solomon, Esq. can be a lifesaver. Lisa's services include conducting research, drafting motions and appeals, and editing and proofreading legal documents.</p><img src="http://questionoflaw.net/images/LisaSolomonheadshotsmall.jpg"></article>]]></description>
