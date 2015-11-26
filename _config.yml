@@ -1,7 +1,7 @@
 name: QuestionOfLaw
 favicon: null
-layout_spectrum: 0.2833706368692219
-typography_spectrum: 0.7776363475713879
+layout_spectrum: 0.65455
+typography_spectrum: 0.74039
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.9834544220939279
+    - '#ffffff'
+    - '#636566'
+    - '#be2225'
+    - '#160d09'
+    - '#d26668'
+  brandStrength: 0.875
   lightness: 0.9670810976531357
-  saturation: 0.055568535113707185
-  rhythmicContrast: 0.1884851895738393
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
