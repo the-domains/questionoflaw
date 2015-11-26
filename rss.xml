@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[QuestionOfLaw]]></title>
+        <description><![CDATA[QuestionOfLaw]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 Nov 2015 17:04:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Legal Research and Writing for Attorneys -- Lisa Solomon, Esq.]]></title>
+            <description><![CDATA[<article><h1>Legal Research and Writing for Attorneys -- Lisa Solomon, Esq.</h1><p>Legal research and writing services for attorneys provided by Lisa Solomon, Esq. can be a lifesaver. Lisa's services include conducting research, drafting motions and appeals, and editing and proofreading legal documents.</p><img src="http://questionoflaw.net/images/LisaSolomonheadshotsmall.jpg"></article>]]></description>
+            <link>http://questionoflaw.net/</link>
+            <guid isPermaLink="false">9a44117e-ce2b-488f-bd32-720f29b51e4c</guid>
+            <pubDate>Thu, 26 Nov 2015 17:03:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
